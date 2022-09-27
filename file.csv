@@ -1,0 +1,6 @@
+id,nome,altura,peso,tipos,dano_recebido,id_evolucao
+006,Charizard,1.7m,90.5kg,"fire,flying","{'normal': 1.0, 'fire': 0.5, 'water': 2.0, 'electric': 2.0, 'grass': 0.25, 'ice': 2.0, 'fighting': 0.5, 'poison': 1.0, 'ground': 0.0, 'flying': 1.0, 'psychict': 1.0, 'bug': 0.25, 'rock': 4.0, 'ghost': 1.0, 'dragon': 1.0}",
+005,Charmeleon,1.1m,19kg,fire,"{'normal': 1.0, 'fire': 0.5, 'water': 2.0, 'electric': 1.0, 'grass': 0.5, 'ice': 1.0, 'fighting': 1.0, 'poison': 1.0, 'ground': 2.0, 'flying': 1.0, 'psychict': 1.0, 'bug': 0.5, 'rock': 2.0, 'ghost': 1.0, 'dragon': 1.0}",006
+004,Charmander,0.6m,8.5kg,fire,"{'normal': 1.0, 'fire': 0.5, 'water': 2.0, 'electric': 1.0, 'grass': 0.5, 'ice': 1.0, 'fighting': 1.0, 'poison': 1.0, 'ground': 2.0, 'flying': 1.0, 'psychict': 1.0, 'bug': 0.5, 'rock': 2.0, 'ghost': 1.0, 'dragon': 1.0}",005
+002,Ivysaur,1m,13kg,"grass,poison","{'normal': 1.0, 'fire': 2.0, 'water': 0.5, 'electric': 0.5, 'grass': 0.25, 'ice': 2.0, 'fighting': 0.5, 'poison': 1.0, 'ground': 1.0, 'flying': 2.0, 'psychict': 2.0, 'bug': 4.0, 'rock': 1.0, 'ghost': 1.0, 'dragon': 1.0}",003
+003,Venusaur,2m,100kg,"grass,poison","{'normal': 1.0, 'fire': 2.0, 'water': 0.5, 'electric': 0.5, 'grass': 0.25, 'ice': 2.0, 'fighting': 0.5, 'poison': 1.0, 'ground': 1.0, 'flying': 2.0, 'psychict': 2.0, 'bug': 4.0, 'rock': 1.0, 'ghost': 1.0, 'dragon': 1.0}",
